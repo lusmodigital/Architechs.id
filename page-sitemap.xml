@@ -1,633 +1,633 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/berita</loc>
+		<loc>https://architechs.id/berita</loc>
 		<lastmod>2022-11-03T22:40:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/</loc>
+		<loc>https://architechs.id/</loc>
 		<lastmod>2022-11-07T07:38:46+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-min.png</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-min.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/home-desain-min.png</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/home-desain-min.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/Hotel.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/Hotel.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/Industri.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/Industri.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/Kos-kosan.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/Kos-kosan.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/Masjid.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/Masjid.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/Restoran.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/Restoran.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/Ruko.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/Ruko.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/Rumah.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/Rumah.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/Rumah-Sakit.jpeg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/Rumah-Sakit.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/Villa.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/Villa.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/kontak-kami</loc>
+		<loc>https://architechs.id/kontak-kami</loc>
 		<lastmod>2022-11-07T09:11:13+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-min.png</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-min.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/sofa</loc>
+		<loc>https://architechs.id/sofa</loc>
 		<lastmod>2022-11-07T09:09:59+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/desain-sofa-5.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/desain-sofa-5.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/desain-sofa-4.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/desain-sofa-4.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/desain-sofa-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/desain-sofa-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/desain-sofa-1.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/desain-sofa-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/meja</loc>
+		<loc>https://architechs.id/meja</loc>
 		<lastmod>2022-11-07T09:09:57+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/meja-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/meja-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/meja-4.webp</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/meja-4.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/meja-5.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/meja-5.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/meja-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/meja-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/lemari</loc>
+		<loc>https://architechs.id/lemari</loc>
 		<lastmod>2022-11-07T09:09:47+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/Lemari-31.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/Lemari-31.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/Lemari-41.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/Lemari-41.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/Lemari-51.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/Lemari-51.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/Lemari-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/Lemari-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/lampu</loc>
+		<loc>https://architechs.id/lampu</loc>
 		<lastmod>2022-11-07T09:09:41+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/lampu-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/lampu-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/lampu-4.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/lampu-4.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/lampu-5.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/lampu-5.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/lampu-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/lampu-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/kitchen-set</loc>
+		<loc>https://architechs.id/kitchen-set</loc>
 		<lastmod>2022-11-07T09:09:34+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/jasa-pembuatan-kitchen-set-harga-termurah-6.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/jasa-pembuatan-kitchen-set-harga-termurah-6.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/jasa-pembuatan-kitchen-set-harga-termurah-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/jasa-pembuatan-kitchen-set-harga-termurah-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/jasa-pembuatan-kitchen-set-harga-termurah-8.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/jasa-pembuatan-kitchen-set-harga-termurah-8.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/desain-kitchen-1.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/desain-kitchen-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/tentang-kami</loc>
+		<loc>https://architechs.id/tentang-kami</loc>
 		<lastmod>2022-11-07T09:08:41+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-min.png</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-min.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/tentang.png</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/tentang.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/rooftop</loc>
+		<loc>https://architechs.id/rooftop</loc>
 		<lastmod>2022-11-07T08:59:52+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/jasa-arsitek-Rooftop-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/jasa-arsitek-Rooftop-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/jasa-arsitek-Rooftop-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/jasa-arsitek-Rooftop-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/jasa-arsitek-Rooftop-1.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/jasa-arsitek-Rooftop-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/basement</loc>
+		<loc>https://architechs.id/basement</loc>
 		<lastmod>2022-11-07T08:59:48+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/arsitek-desain-basement-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/arsitek-desain-basement-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/arsitek-desain-basement-1.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/arsitek-desain-basement-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/arsitek-desain-basement-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/arsitek-desain-basement-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/kolam-renang</loc>
+		<loc>https://architechs.id/kolam-renang</loc>
 		<lastmod>2022-11-07T08:59:43+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/arsitek-kolam-renang-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/arsitek-kolam-renang-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/arsitek-kolam-renang-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/arsitek-kolam-renang-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/arsitek-kolam-renang-1.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/arsitek-kolam-renang-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/pagar</loc>
+		<loc>https://architechs.id/pagar</loc>
 		<lastmod>2022-11-07T08:59:40+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/jasa-arsitek-desain-pagar-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/jasa-arsitek-desain-pagar-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/jasa-arsitek-desain-pagar-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/jasa-arsitek-desain-pagar-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/jasa-arsitek-desain-pagar-1.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/jasa-arsitek-desain-pagar-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/jendela</loc>
+		<loc>https://architechs.id/jendela</loc>
 		<lastmod>2022-11-07T08:59:39+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/jasa-desain-arsitektur-jendela-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/jasa-desain-arsitektur-jendela-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/jasa-desain-arsitektur-jendela-4.jpeg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/jasa-desain-arsitektur-jendela-4.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/jasa-desain-arsitektur-jendela-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/jasa-desain-arsitektur-jendela-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/jembatan</loc>
+		<loc>https://architechs.id/jembatan</loc>
 		<lastmod>2022-11-07T08:59:33+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/desain-jembatan-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/desain-jembatan-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/desain-jembatan-4.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/desain-jembatan-4.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/desain-jembatan-5.jpeg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/desain-jembatan-5.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/desain-jembatan-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/desain-jembatan-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/halaman-belakang</loc>
+		<loc>https://architechs.id/halaman-belakang</loc>
 		<lastmod>2022-11-07T08:59:27+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/halaman-belakang-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/halaman-belakang-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/halaman-belakang-4.jpeg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/halaman-belakang-4.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/halaman-belakang-5.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/halaman-belakang-5.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/halaman-belakang-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/halaman-belakang-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/halaman-depan</loc>
+		<loc>https://architechs.id/halaman-depan</loc>
 		<lastmod>2022-11-07T08:59:21+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-dapur-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-dapur-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-dapur-1.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-dapur-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-dapur-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-dapur-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-dapur-4.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-dapur-4.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/mezzanine</loc>
+		<loc>https://architechs.id/mezzanine</loc>
 		<lastmod>2022-11-07T08:49:42+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/interior-desain-Mezzanine-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/interior-desain-Mezzanine-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/interior-desain-Mezzanine-1.jpeg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/interior-desain-Mezzanine-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/interior-desain-Mezzanine-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/interior-desain-Mezzanine-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/Mezzanine-Arsitek.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/Mezzanine-Arsitek.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/ruang-keluarga</loc>
+		<loc>https://architechs.id/ruang-keluarga</loc>
 		<lastmod>2022-11-07T08:49:28+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/arsitek-ruang-keluarga.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/arsitek-ruang-keluarga.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/arsitek-ruang-keluarga-1.jpeg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/arsitek-ruang-keluarga-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/arsitek-ruang-keluarga-3.jpeg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/arsitek-ruang-keluarga-3.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/arsitek-ruang-keluarga-4.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/arsitek-ruang-keluarga-4.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/arsitek-ruang-keluarga-5.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/arsitek-ruang-keluarga-5.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/ruang-tamu</loc>
+		<loc>https://architechs.id/ruang-tamu</loc>
 		<lastmod>2022-11-07T08:49:22+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/arsitek-ruang-tamu-1.jpeg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/arsitek-ruang-tamu-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/arsitek-ruang-tamu-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/arsitek-ruang-tamu-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/arsitek-ruang-tamu-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/arsitek-ruang-tamu-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/arsitek-ruang-tamu.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/arsitek-ruang-tamu.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/kantor</loc>
+		<loc>https://architechs.id/kantor</loc>
 		<lastmod>2022-11-07T08:45:50+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/Arsitek-Kantor-1.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/Arsitek-Kantor-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/Arsitek-Kantor-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/Arsitek-Kantor-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/Arsitek-Kantor-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/Arsitek-Kantor-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/Arsitek-Kantor-4.jpeg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/11/Arsitek-Kantor-4.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/gudang</loc>
+		<loc>https://architechs.id/gudang</loc>
 		<lastmod>2022-11-07T08:45:48+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-interior-gudang-4.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-interior-gudang-4.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-interior-gudang-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-interior-gudang-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-interior-gudang-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-interior-gudang-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-interior-gudang-5.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-interior-gudang-5.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/garasi</loc>
+		<loc>https://architechs.id/garasi</loc>
 		<lastmod>2022-11-07T08:45:45+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-garasi-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-garasi-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-garasi-4.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-garasi-4.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-garasi-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-garasi-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-garasi-5.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-garasi-5.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/dapur</loc>
+		<loc>https://architechs.id/dapur</loc>
 		<lastmod>2022-11-07T08:45:42+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-dapur-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-dapur-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-dapur-1.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-dapur-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-dapur-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-dapur-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-dapur-4.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-dapur-4.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/foyer</loc>
+		<loc>https://architechs.id/foyer</loc>
 		<lastmod>2022-11-07T08:45:41+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-interior-foyer-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-interior-foyer-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-interior-foyer-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-interior-foyer-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-interior-foyer-1.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-interior-foyer-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-interior-foyer.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-interior-foyer.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/kamar-mandi</loc>
+		<loc>https://architechs.id/kamar-mandi</loc>
 		<lastmod>2022-11-07T08:45:37+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-kamar-mandi-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-kamar-mandi-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-kamar-mandi-1.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-kamar-mandi-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-kamar-mandi-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-kamar-mandi-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-interior-kamar-mandi.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-interior-kamar-mandi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/kamar-tidur</loc>
+		<loc>https://architechs.id/kamar-tidur</loc>
 		<lastmod>2022-11-07T08:45:30+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-kamar-tidur-mid-century-modern.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-kamar-tidur-mid-century-modern.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-kamar-tidur-minimalis.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-kamar-tidur-minimalis.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-kamar-tidur-tradisional.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-kamar-tidur-tradisional.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-kamar.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-kamar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/rumah</loc>
+		<loc>https://architechs.id/rumah</loc>
 		<lastmod>2022-11-07T08:42:34+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-rumah-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-rumah-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-rumah-1.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-rumah-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-rumah-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-rumah-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-rumah-modern.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-rumah-modern.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/villa</loc>
+		<loc>https://architechs.id/villa</loc>
 		<lastmod>2022-11-07T08:23:16+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/jasa-arsitek-villa-4-pwtrefqyrgp1wz3v3cxpmhng5qzxob9qfg6u2tufnc.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/elementor/thumbs/jasa-arsitek-villa-4-pwtrefqyrgp1wz3v3cxpmhng5qzxob9qfg6u2tufnc.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/jasa-arsitek-villa-2-pwtrebzm04jwmj9bpbb7cills7igtiut2xkw5q00c8.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/elementor/thumbs/jasa-arsitek-villa-2-pwtrebzm04jwmj9bpbb7cills7igtiut2xkw5q00c8.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/jasa-arsitek-villa-1-pwtre6ckv4c6ovhim8vfxk0u7wa9jc8f25nza28ddk.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/elementor/thumbs/jasa-arsitek-villa-1-pwtre6ckv4c6ovhim8vfxk0u7wa9jc8f25nza28ddk.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/jasa-arsitek-villa-1-pwtre6cm2z6w590edggg6278smapancvbw8hjathkw.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/elementor/thumbs/jasa-arsitek-villa-1-pwtre6cm2z6w590edggg6278smapancvbw8hjathkw.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/masjid</loc>
+		<loc>https://architechs.id/masjid</loc>
 		<lastmod>2022-11-07T08:23:08+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-desain-arsitek-masjid-musholla-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-desain-arsitek-masjid-musholla-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-desain-arsitek-masjid-musholla-1.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-desain-arsitek-masjid-musholla-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-desain-arsitek-masjid-musholla-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-desain-arsitek-masjid-musholla-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/industri</loc>
+		<loc>https://architechs.id/industri</loc>
 		<lastmod>2022-11-07T08:23:04+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-pabrik.jpeg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-pabrik.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-pabrik-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-pabrik-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-pabrik-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-pabrik-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/hotel</loc>
+		<loc>https://architechs.id/hotel</loc>
 		<lastmod>2022-11-07T08:22:57+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-hotel-1.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-hotel-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-hotel-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-hotel-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-hotel-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-hotel-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-professional-hotel.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-professional-hotel.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/food-court</loc>
+		<loc>https://architechs.id/food-court</loc>
 		<lastmod>2022-11-07T08:22:50+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-food-court-1.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-food-court-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-food-court-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-food-court-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-food-court-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-food-court-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/cafe</loc>
+		<loc>https://architechs.id/cafe</loc>
 		<lastmod>2022-11-07T08:22:45+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-cafe-1.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-cafe-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-cafe-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-cafe-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-cafe-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-cafe-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-cafe-modern.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-cafe-modern.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/apartemen</loc>
+		<loc>https://architechs.id/apartemen</loc>
 		<lastmod>2022-11-07T08:15:43+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-apartemen-1.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-apartemen-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-apartemen-2.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-apartemen-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/desain-apartemen-3.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/desain-apartemen-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/jasa-arsitek-apartemen.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/uploads/2022/10/jasa-arsitek-apartemen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
+			<image:loc>https://architechs.id/wp-content/plugins/anwp-post-grid-for-elementor/public/img/empty_image.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/privacy-policy</loc>
+		<loc>https://architechs.id/privacy-policy</loc>
 		<lastmod>2022-11-03T21:58:55+00:00</lastmod>
 	</url>
 </urlset>
